@@ -28,9 +28,9 @@ print("Dairenin alani: " + str(daireninalani))
 
 # #3-Kullanıcının girdiği üç sayı arasında en büyük olanı bulan ve sonucu yazdıran bir program yazınız.
 
-# sayi1 =float(input("sayi giriniz: "))
-# sayi2 =float(input("sayi giriniz: "))
-# sayi3 =float(input("sayi giriniz: "))
+sayi1 =float(input("sayi giriniz: "))
+sayi2 =float(input("sayi giriniz: "))
+sayi3 =float(input("sayi giriniz: "))
 
 if sayi1 >= sayi2 and sayi1 >= sayi3:
     en_buyuk = sayi1
