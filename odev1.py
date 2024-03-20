@@ -10,7 +10,7 @@ print("Dairenin cevresi: " + str(dairenincevresi))
 print("Dairenin alani: " + str(daireninalani))
 
 
-# # #1-Kullanıcının girdiği boy ve ağırlık değerlerine göre vücut kitle indeksini (VKİ = ağırlık/(boy*boy)) hesaplayınız.,
+#1-Kullanıcının girdiği boy ve ağırlık değerlerine göre vücut kitle indeksini (VKİ = ağırlık/(boy*boy)) hesaplayınız.,
 
 # # boy= input("Lutfen boyunuzu giriniz: ")
 # # kilo= input("Lutfen kilonuzu giriniz: ")
